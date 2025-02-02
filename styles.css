@@ -3,12 +3,12 @@
 #container {
 	margin: 20px;
 }
-p::before {
+div p::before {
 	content: "Befor Element ";
 	color: #f00;
     font-size: 20px;
 }
-p::after {
+div p::after {
 	content: " After Element";
 	color: #f00;
 	font-size: 20px;
