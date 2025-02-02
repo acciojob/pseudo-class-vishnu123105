@@ -4,12 +4,12 @@
 	margin: 20px;
 }
 div p::before {
-	content: "Befor Element ";
+	content: "BeforElement ";
 	color: #f00;
     font-size: 20px;
 }
 div p::after {
-	content: " After Element";
+	content: " AfterElement";
 	color: #f00;
 	font-size: 20px;
 }
