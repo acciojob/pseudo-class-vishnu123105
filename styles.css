@@ -4,7 +4,7 @@
 	margin: 20px;
 }
 #container::before {
-	content: "Befor Element ";
+	content: "Before Element ";
 	color: #f00;
     font-size: 20px;
 }
